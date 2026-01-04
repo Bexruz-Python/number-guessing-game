@@ -15,4 +15,4 @@ A simple Python game where the computer thinks of a number between 1 and 10, and
 
 ## Author
 
-Bexruz-Python
+BexruzCode
