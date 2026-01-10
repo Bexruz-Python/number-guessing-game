@@ -1,3 +1,8 @@
+#! Project: Number Guessing Game.
+#! Date: 10.01.2026.
+#! Author: Behruz Khaitov.
+
+
 import random
 
 
